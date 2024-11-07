@@ -7,9 +7,4 @@ This template includes only the bare minimum, feel free to clone and use this re
 > ℹ️ You can also contact me and try to suggest what to add to this boilerplate or even create a PR, keep in mind that the 
 main idea is to have the bareminimum. 
 
-### ToDo:
-
-- [ ] Base testing file for the example endpoint
-- [ ] Dockerfile
-
 
