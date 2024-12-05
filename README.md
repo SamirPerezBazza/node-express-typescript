@@ -1,5 +1,5 @@
 # node-express-typescript
-## Boiler plate for NodeJS and Express server with typescript
+## Boilerplate for NodeJS and Express server with typescript
 
 Most of the boilerplates in GH include things that are not necessary to start a Node server.
 This template includes only the bare minimum, feel free to clone and use this repository as your starting point.
